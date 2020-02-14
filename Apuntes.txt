@@ -1,0 +1,22 @@
+Tiempo: Completado
+100% funcionando
+Falta subilo al repositorio con Git
+
+https://www.youtube.com/watch?v=o9eij8FEvuA
+
+Inicializar con:
+node src/index.js
+
+Awesome Fonts CDN link
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.0/css/all.css" integrity="sha384-REHJTs1r2ErKBuJB0fCK99gCYsVjwxHrSU0N7I1zl9vZbggVJXRMsv/sLlOAGb4M" crossorigin="anonymous">
+
+Stripe checkout script code
+                <form action="your-server-side-code" method="POST">
+                    <script src="http://checkout.stripe.com/checkout.js" class="stripe-button"
+                        data-key="pk_test_ZjDDQv1oWDfXgZfGQOaWjF7j006Zq7ULvs" data-amount="999"
+                        data-name="Demo-Site"
+                        data-description="Widget"
+                        data-image="https://stripe.com/img/documentation/checkout/marketplace.png"
+                        data-locale="auto">
+                    </script>
+                </form>
